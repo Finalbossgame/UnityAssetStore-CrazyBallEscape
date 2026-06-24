@@ -104,3 +104,13 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+#New
+*.zip
+*.dwlt
+/Assets/Firebase/Plugins/x86_64/*
+/*DontShipItWithYourGame/
+/[Aa]ssets/Firebase/Plugins/x86_64/
+/WebGL/
+WebGL/
+/Ideas/
